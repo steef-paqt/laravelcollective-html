@@ -1,3 +1,10 @@
+# Fork info
+
+This is a Laravel 11 compatible version of [LaravelCollective/html](https://github.com/LaravelCollective/html/), 
+which is an abandoned package.
+
+## LaravelCollective HTML
+
 ![LaravelCollective HTML](LaravelCollectiveHTML-banner.png)
 
 [![Build Status](https://travis-ci.org/LaravelCollective/html.svg)](https://travis-ci.org/LaravelCollective/html)
